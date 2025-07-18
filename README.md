@@ -57,17 +57,17 @@ START_APPLICATION.bat
 
 ```
 ┌─────────────────────────────────────┐
-│         GUI Interface               │
-│  (Professional Design)             │
+│           GUI Interface             │
+│       (Professional Design)         │
 ├─────────────────────────────────────┤
-│    Military Encryption Engine      │
-│  (One-Time Pad + Enhancements)     │
+│     Military Encryption Engine      │
+│   (One-Time Pad + Enhancements)     │
 ├─────────────────────────────────────┤
 │  Entropy Sources │ Memory Security  │
-│  Multi-source   │ Secure Deletion  │
-├─────────────────┼──────────────────┤
-│     File I/O    │   Key Management │
-│   Organization  │   Verification   │
+│   Multi-source   │ Secure Deletion  │
+├──────────────────┼──────────────────┤
+│      File I/O    │   Key Management │
+│    Organization  │   Verification   │
 └─────────────────────────────────────┘
 ```
 
