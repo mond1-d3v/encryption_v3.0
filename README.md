@@ -24,8 +24,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/encryption_v3.0.git
-cd unbreakable-encryption
+git clone https://github.com/mond1-d3v/encryption_v3.0.git
+cd encryption_v3.0
 
 # Launch the application
 python GUI.py
@@ -155,7 +155,7 @@ python GUI.py
 
 ### Programmatic Usage
 ```python
-from crypto_engine_secure import MilitaryGradeEncryption
+from crypto_engine import MilitaryGradeEncryption
 
 # Encrypt a file
 success, encrypted_file, key_file, msg = MilitaryGradeEncryption.encrypt_file("document.pdf")
