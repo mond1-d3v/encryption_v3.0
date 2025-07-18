@@ -219,39 +219,31 @@ This software implements military-grade cryptography. Export and use may be subj
 — **Claude Shannon, 1949**
 ---
 
-## ⚠️ Limitations et avertissements
+## ⚠️ Limitations and Warnings
 
-### Limitations techniques
-- **Taille de clé = taille fichier** : Stockage doublé
-- **Clé unique** : Une clé par fichier, pas de réutilisation
-- **Gestion manuelle** : Distribution de clés hors-bande
+### Technical limitations
+- **Key size = file size** : Doubled storage
+- **Unique key** : One key per file, no reuse
+- **Manual management** : Out-of-band key distribution
 
-### Avertissements critiques
+### Critical Warnings
 ```
-🚨 PERTE DE CLÉ = PERTE DÉFINITIVE DES DONNÉES
-🚨 RÉUTILISATION DE CLÉ = COMPROMISSION TOTALE
-🚨 PARTAGE DE CLÉ = DIVULGATION DES DONNÉES
+🚨 LOST KEY = PERMANENT LOSS OF DATA
+🚨 KEY REUSE = TOTAL COMPROMISSION
+🚨 KEY SHARING = DATA DISCLOSURE
 ```
 
-### Responsabilités utilisateur
-- **Sauvegarde sécurisée** des clés
-- **Protection physique** des supports
-- **Formation** du personnel autorisé
-- **Procédures** de destruction sécurisée
+## 📊 Executive summary
+
+**This Unbreakable Encryption** offers the highest level of security theoretically possible thanks to the One-Time Pad algorithm. With a modern interface and optimized performance, it is the ideal solution for protecting ultra-sensitive data in all sectors requiring maximum security.
+
+### Key points
+- ✅ **Mathematically perfect security**
+- ✅ **Native quantum resistance**
+- ✅ **Modern user interface**
+- ✅ **Industrial performance**
+- ✅ **Regulatory compliance**
 
 ---
 
-## 📊 Synthèse exécutive
-
-**This Unbreakable Encryption** offre le plus haut niveau de sécurité théoriquement possible grâce à l'algorithme One-Time Pad. Avec une interface moderne et des performances optimisées, il constitue la solution idéale pour la protection de données ultra-sensibles dans tous secteurs exigeant une sécurité maximale.
-
-### Points clés
-- ✅ **Sécurité mathématiquement parfaite**
-- ✅ **Résistance quantique native**
-- ✅ **Interface utilisateur moderne**
-- ✅ **Performance industrielle**
-- ✅ **Conformité réglementaire**
-
----
-
-*Ce code a été développé exclusivement à des fins d’apprentissage et d’expérimentation technique. Toute utilisation à des fins malveillantes ou contraires à la législation en vigueur relève de la seule responsabilité de l’utilisateur. Le créateur décline expressément toute responsabilité quant aux conséquences, directes ou indirectes, résultant d’un usage inapproprié, illégal ou non conforme à l’objectif initial du programme.*
+*This code was developed exclusively for learning and technical experimentation purposes. Any use for malicious purposes or in violation of current legislation is the sole responsibility of the user. The creator expressly disclaims any liability for any direct or indirect consequences resulting from inappropriate, illegal, or inconsistent use of the program.*
