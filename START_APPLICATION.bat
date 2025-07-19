@@ -1,5 +1,5 @@
 @echo off
-title Unbreakable Encryption - Professional Interface
+title Unbreakable Encryption - Interface
 echo.
 echo 🛡️ Lancement de l'interface...
 echo ⚡ Unbreakable Encryption System v3.0
